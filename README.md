@@ -1,3 +1,5 @@
+![Logo](lock.png)
+
 # Project Privacy
 
 Project Privacy is a website that enables users to protect their digital information with step-by-step guides for multiple platforms.
