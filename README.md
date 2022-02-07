@@ -1,4 +1,4 @@
-![Logo](lock.png)
+![Logo](lock.png =250x250)
 
 # Project Privacy
 
