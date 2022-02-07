@@ -1,4 +1,4 @@
-![Logo](lock.png =250x250)
+<img src="https://github.com/Albisourous/projectprivacy/blob/master/lock.png" alt="lock" width="250"/>
 
 # Project Privacy
 
